@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<Skein rootNode="node-0x704ad40" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Zoom</generator>
+  <activeNode nodeId="node-0x70c4320" />
+  <item nodeId="node-0x704ad40">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+Finding Omen
+An Interactive Fiction by Jaryd Ma
+Release 1 / Serial number 140929 / Inform 7 build 6L38 (I6/v6.33 lib 6/12N) SD
+
+Your Home
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="7">NO</temporary>
+    <children>
+      <child nodeId="node-0x707c430" />
+    </children>
+  </item>
+  <item nodeId="node-0x707c430">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+School
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="7">YES</temporary>
+    <children>
+      <child nodeId="node-0x9219c50" />
+    </children>
+  </item>
+  <item nodeId="node-0x9219c50">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Ship Wreckage
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="7">YES</temporary>
+    <children>
+      <child nodeId="node-0x920c350" />
+    </children>
+  </item>
+  <item nodeId="node-0x920c350">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Jellyfish Fields
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="7">YES</temporary>
+    <children>
+      <child nodeId="node-0x26e050" />
+    </children>
+  </item>
+  <item nodeId="node-0x26e050">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Seaweed Forest
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="7">YES</temporary>
+    <children>
+      <child nodeId="node-0x7033690" />
+    </children>
+  </item>
+  <item nodeId="node-0x7033690">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Jellyfish Fields
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="7">YES</temporary>
+    <children>
+      <child nodeId="node-0x70c4320" />
+    </children>
+  </item>
+  <item nodeId="node-0x70c4320">
+    <command xml:space="preserve">w</command>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="6">YES</temporary>
+  </item>
+</Skein>
