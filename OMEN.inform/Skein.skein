@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <Skein rootNode="node-0x704ad40" xmlns="http://www.logicalshift.org.uk/IF/Skein">
   <generator>Zoom</generator>
-  <activeNode nodeId="node-0x70c4320" />
+  <activeNode nodeId="node-0x7684be0" />
   <item nodeId="node-0x704ad40">
     <command xml:space="preserve">- start -</command>
     <result xml:space="preserve">
@@ -15,11 +15,103 @@ Your Home
 
 &gt;</result>
     <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="7">NO</temporary>
+    <changed>NO</changed>
+    <temporary score="15">NO</temporary>
     <children>
       <child nodeId="node-0x707c430" />
+      <child nodeId="node-0x765e730" />
     </children>
+  </item>
+  <item nodeId="node-0x765e730">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15">YES</temporary>
+    <children>
+      <child nodeId="node-0x9293ea0" />
+    </children>
+  </item>
+  <item nodeId="node-0x9293ea0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15">YES</temporary>
+    <children>
+      <child nodeId="node-0x927eab0" />
+    </children>
+  </item>
+  <item nodeId="node-0x927eab0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+School
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15">YES</temporary>
+    <children>
+      <child nodeId="node-0x7660ed0" />
+    </children>
+  </item>
+  <item nodeId="node-0x7660ed0">
+    <command xml:space="preserve">x lunchbox</command>
+    <result xml:space="preserve">You see nothing special about Lunchbox.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15">YES</temporary>
+    <children>
+      <child nodeId="node-0x92a58e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x92a58e0">
+    <command xml:space="preserve">open lunchbox</command>
+    <result xml:space="preserve">You open Lunchbox.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15">YES</temporary>
+    <children>
+      <child nodeId="node-0x92e7f10" />
+    </children>
+  </item>
+  <item nodeId="node-0x92e7f10">
+    <command xml:space="preserve">take box</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15">YES</temporary>
+    <children>
+      <child nodeId="node-0x92a5340" />
+    </children>
+  </item>
+  <item nodeId="node-0x92a5340">
+    <command xml:space="preserve">take luchbox</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15">YES</temporary>
+    <children>
+      <child nodeId="node-0x7684be0" />
+    </children>
+  </item>
+  <item nodeId="node-0x7684be0">
+    <command xml:space="preserve">take lunchbox</command>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="14">YES</temporary>
   </item>
   <item nodeId="node-0x707c430">
     <command xml:space="preserve">e</command>
@@ -88,6 +180,10 @@ Jellyfish Fields
   </item>
   <item nodeId="node-0x70c4320">
     <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Ship Wreckage
+
+&gt;</result>
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="6">YES</temporary>
