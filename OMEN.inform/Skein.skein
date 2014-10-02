@@ -1,28 +1,30 @@
 <?xml version="1.0"?>
-<Skein rootNode="node-0x704ad40" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+<Skein rootNode="node-0x77e050" xmlns="http://www.logicalshift.org.uk/IF/Skein">
   <generator>Zoom</generator>
-  <activeNode nodeId="node-0x7684be0" />
-  <item nodeId="node-0x704ad40">
+  <activeNode nodeId="node-0x77e050" />
+  <item nodeId="node-0x77e050">
     <command xml:space="preserve">- start -</command>
     <result xml:space="preserve">
 
 
+________________________________________.
+
 Finding Omen
 An Interactive Fiction by Jaryd Ma
-Release 1 / Serial number 140929 / Inform 7 build 6L38 (I6/v6.33 lib 6/12N) SD
+Release 1 / Serial number 141001 / Inform 7 build 6L38 (I6/v6.33 lib 6/12N) SD
 
 Your Home
 
 &gt;</result>
     <played>YES</played>
-    <changed>NO</changed>
+    <changed>YES</changed>
     <temporary score="15">NO</temporary>
     <children>
-      <child nodeId="node-0x707c430" />
-      <child nodeId="node-0x765e730" />
+      <child nodeId="node-0x77e360" />
+      <child nodeId="node-0x77e0a0" />
     </children>
   </item>
-  <item nodeId="node-0x765e730">
+  <item nodeId="node-0x77e0a0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -31,10 +33,10 @@ Your Home
     <changed>YES</changed>
     <temporary score="15">YES</temporary>
     <children>
-      <child nodeId="node-0x9293ea0" />
+      <child nodeId="node-0x77e0f0" />
     </children>
   </item>
-  <item nodeId="node-0x9293ea0">
+  <item nodeId="node-0x77e0f0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -43,10 +45,10 @@ Your Home
     <changed>YES</changed>
     <temporary score="15">YES</temporary>
     <children>
-      <child nodeId="node-0x927eab0" />
+      <child nodeId="node-0x77e140" />
     </children>
   </item>
-  <item nodeId="node-0x927eab0">
+  <item nodeId="node-0x77e140">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 School
@@ -56,10 +58,10 @@ School
     <changed>YES</changed>
     <temporary score="15">YES</temporary>
     <children>
-      <child nodeId="node-0x7660ed0" />
+      <child nodeId="node-0x77e190" />
     </children>
   </item>
-  <item nodeId="node-0x7660ed0">
+  <item nodeId="node-0x77e190">
     <command xml:space="preserve">x lunchbox</command>
     <result xml:space="preserve">You see nothing special about Lunchbox.
 
@@ -68,10 +70,10 @@ School
     <changed>YES</changed>
     <temporary score="15">YES</temporary>
     <children>
-      <child nodeId="node-0x92a58e0" />
+      <child nodeId="node-0x77e1e0" />
     </children>
   </item>
-  <item nodeId="node-0x92a58e0">
+  <item nodeId="node-0x77e1e0">
     <command xml:space="preserve">open lunchbox</command>
     <result xml:space="preserve">You open Lunchbox.
 
@@ -80,10 +82,10 @@ School
     <changed>YES</changed>
     <temporary score="15">YES</temporary>
     <children>
-      <child nodeId="node-0x92e7f10" />
+      <child nodeId="node-0x77e230" />
     </children>
   </item>
-  <item nodeId="node-0x92e7f10">
+  <item nodeId="node-0x77e230">
     <command xml:space="preserve">take box</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -92,10 +94,10 @@ School
     <changed>YES</changed>
     <temporary score="15">YES</temporary>
     <children>
-      <child nodeId="node-0x92a5340" />
+      <child nodeId="node-0x77e2c0" />
     </children>
   </item>
-  <item nodeId="node-0x92a5340">
+  <item nodeId="node-0x77e2c0">
     <command xml:space="preserve">take luchbox</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -104,16 +106,16 @@ School
     <changed>YES</changed>
     <temporary score="15">YES</temporary>
     <children>
-      <child nodeId="node-0x7684be0" />
+      <child nodeId="node-0x77e310" />
     </children>
   </item>
-  <item nodeId="node-0x7684be0">
+  <item nodeId="node-0x77e310">
     <command xml:space="preserve">take lunchbox</command>
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="14">YES</temporary>
   </item>
-  <item nodeId="node-0x707c430">
+  <item nodeId="node-0x77e360">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 School
@@ -123,10 +125,10 @@ School
     <changed>YES</changed>
     <temporary score="7">YES</temporary>
     <children>
-      <child nodeId="node-0x9219c50" />
+      <child nodeId="node-0x77e3b0" />
     </children>
   </item>
-  <item nodeId="node-0x9219c50">
+  <item nodeId="node-0x77e3b0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Ship Wreckage
@@ -136,10 +138,10 @@ Ship Wreckage
     <changed>YES</changed>
     <temporary score="7">YES</temporary>
     <children>
-      <child nodeId="node-0x920c350" />
+      <child nodeId="node-0x77e400" />
     </children>
   </item>
-  <item nodeId="node-0x920c350">
+  <item nodeId="node-0x77e400">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Jellyfish Fields
@@ -149,10 +151,10 @@ Jellyfish Fields
     <changed>YES</changed>
     <temporary score="7">YES</temporary>
     <children>
-      <child nodeId="node-0x26e050" />
+      <child nodeId="node-0x77e510" />
     </children>
   </item>
-  <item nodeId="node-0x26e050">
+  <item nodeId="node-0x77e510">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Seaweed Forest
@@ -162,10 +164,10 @@ Seaweed Forest
     <changed>YES</changed>
     <temporary score="7">YES</temporary>
     <children>
-      <child nodeId="node-0x7033690" />
+      <child nodeId="node-0x77e560" />
     </children>
   </item>
-  <item nodeId="node-0x7033690">
+  <item nodeId="node-0x77e560">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Jellyfish Fields
@@ -175,10 +177,10 @@ Jellyfish Fields
     <changed>YES</changed>
     <temporary score="7">YES</temporary>
     <children>
-      <child nodeId="node-0x70c4320" />
+      <child nodeId="node-0x77e5b0" />
     </children>
   </item>
-  <item nodeId="node-0x70c4320">
+  <item nodeId="node-0x77e5b0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Ship Wreckage
