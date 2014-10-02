@@ -17,7 +17,7 @@ Your Home
 
 &gt;</result>
     <played>YES</played>
-    <changed>YES</changed>
+    <changed>NO</changed>
     <temporary score="15">NO</temporary>
     <children>
       <child nodeId="node-0x77e360" />

@@ -46,4 +46,6 @@ Omen is a thing in the seaweed forest. it is undescribed. the description is "__
 	
 
 
-
+	
+	an every turn rule:
+	if Annie is carrying the memory pill, say "you win."
