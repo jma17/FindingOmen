@@ -1,0 +1,1182 @@
+<?xml version="1.0"?>
+<Skein rootNode="node-0x4fb840" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Zoom</generator>
+  <activeNode nodeId="node-0x4fb840" />
+  <item nodeId="node-0x4fb840">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+Your brother Omen has gone missing! You last saw him going for a stroll by your house.
+
+Find Omen.
+
+Finding Omen
+An Interactive Fiction by Jaryd Ma
+Release 1 / Serial number 141002 / Inform 7 build 6L38 (I6/v6.33 lib 6/12N) SD
+
+Your Home
+protected by a sea anemone, the only thing here is some seaweed.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2">NO</temporary>
+    <children>
+      <child nodeId="node-0x412860" />
+      <child nodeId="node-0x413fa0" />
+      <child nodeId="node-0x414320" />
+      <child nodeId="node-0x4fb890" />
+      <child nodeId="node-0x7a9a870" />
+    </children>
+  </item>
+  <item nodeId="node-0x7a9a870">
+    <command xml:space="preserve">x player</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1">YES</temporary>
+  </item>
+  <item nodeId="node-0x4fb890">
+    <command xml:space="preserve">x seaweed</command>
+    <result xml:space="preserve">green, smelly and salty.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x4fbab0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4fbab0">
+    <command xml:space="preserve">take seaweed</command>
+    <result xml:space="preserve">That&apos;s hardly portable.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x4fbb00" />
+    </children>
+  </item>
+  <item nodeId="node-0x4fbb00">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x4fbb70" />
+    </children>
+  </item>
+  <item nodeId="node-0x4fbb70">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x4fbbe0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4fbbe0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x4fbc50" />
+    </children>
+  </item>
+  <item nodeId="node-0x4fbc50">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+School
+an empty classroom with only a teacher becuase school has ended. A forgotten lunchbox is in the corner.
+
+You can see Teacher Jon here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x414ad0" />
+    </children>
+  </item>
+  <item nodeId="node-0x414ad0">
+    <command xml:space="preserve">take teacher jon</command>
+    <result xml:space="preserve">I don&apos;t suppose Teacher Jon would care for that.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x414a80" />
+    </children>
+  </item>
+  <item nodeId="node-0x414a80">
+    <command xml:space="preserve">talk to jon</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x414a30" />
+    </children>
+  </item>
+  <item nodeId="node-0x414a30">
+    <command xml:space="preserve">x lunchbox</command>
+    <result xml:space="preserve">an old tin box with Sponge Bob on it.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x4149c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4149c0">
+    <command xml:space="preserve">open it</command>
+    <result xml:space="preserve">You open Lunchbox, revealing a sandwich.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x414950" />
+    </children>
+  </item>
+  <item nodeId="node-0x414950">
+    <command xml:space="preserve">take sandwich</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x414820" />
+    </children>
+  </item>
+  <item nodeId="node-0x414820">
+    <command xml:space="preserve">x it</command>
+    <result xml:space="preserve">a yummy ham and cheese sandwich on white bread with the crust cut off.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x4fbce0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4fbce0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Ship Wreckage
+You can see Bob here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x4147d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4147d0">
+    <command xml:space="preserve">talk to bob</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x414760" />
+    </children>
+  </item>
+  <item nodeId="node-0x414760">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x4146f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4146f0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Jellyfish Fields
+You can see Annie here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x414680" />
+    </children>
+  </item>
+  <item nodeId="node-0x414680">
+    <command xml:space="preserve">talk to annie</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x414610" />
+    </children>
+  </item>
+  <item nodeId="node-0x414610">
+    <command xml:space="preserve">x annie</command>
+    <result xml:space="preserve">A small blue fish with a yellow dorsil fin.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x4145a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4145a0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Seaweed Forest
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x4148d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4148d0">
+    <command xml:space="preserve">take all</command>
+    <result xml:space="preserve">(the sandwich)
+You already have that.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x414870" />
+    </children>
+  </item>
+  <item nodeId="node-0x414870">
+    <command xml:space="preserve">x omen</command>
+    <result xml:space="preserve">Your brother! an orange clown fish, a mirror image of you.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x414390" />
+    </children>
+  </item>
+  <item nodeId="node-0x414390">
+    <command xml:space="preserve">x seaweed</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="41">YES</temporary>
+  </item>
+  <item nodeId="node-0x414320">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15">YES</temporary>
+    <children>
+      <child nodeId="node-0x4142b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4142b0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15">YES</temporary>
+    <children>
+      <child nodeId="node-0x414240" />
+    </children>
+  </item>
+  <item nodeId="node-0x414240">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+School
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15">YES</temporary>
+    <children>
+      <child nodeId="node-0x4141d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4141d0">
+    <command xml:space="preserve">x lunchbox</command>
+    <result xml:space="preserve">You see nothing special about Lunchbox.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15">YES</temporary>
+    <children>
+      <child nodeId="node-0x414160" />
+    </children>
+  </item>
+  <item nodeId="node-0x414160">
+    <command xml:space="preserve">open lunchbox</command>
+    <result xml:space="preserve">You open Lunchbox.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15">YES</temporary>
+    <children>
+      <child nodeId="node-0x4140f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4140f0">
+    <command xml:space="preserve">take box</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15">YES</temporary>
+    <children>
+      <child nodeId="node-0x414080" />
+    </children>
+  </item>
+  <item nodeId="node-0x414080">
+    <command xml:space="preserve">take luchbox</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15">YES</temporary>
+    <children>
+      <child nodeId="node-0x414010" />
+    </children>
+  </item>
+  <item nodeId="node-0x414010">
+    <command xml:space="preserve">take lunchbox</command>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="14">YES</temporary>
+  </item>
+  <item nodeId="node-0x413fa0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+School
+an empty classroom with only a teacher becuase school has ended. A forgotten lunchbox is in the corner.
+
+You can see Teacher Jon here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="122">YES</temporary>
+    <children>
+      <child nodeId="node-0x412b00" />
+      <child nodeId="node-0x412be0" />
+      <child nodeId="node-0x412ef0" />
+      <child nodeId="node-0x413f30" />
+    </children>
+  </item>
+  <item nodeId="node-0x413f30">
+    <command xml:space="preserve">take all</command>
+    <result xml:space="preserve">There are none at all available!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="122">YES</temporary>
+    <children>
+      <child nodeId="node-0x4144d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4144d0">
+    <command xml:space="preserve">x lunch box</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="122">YES</temporary>
+    <children>
+      <child nodeId="node-0x414420" />
+    </children>
+  </item>
+  <item nodeId="node-0x414420">
+    <command xml:space="preserve">x lunchbox</command>
+    <result xml:space="preserve">an old tin box with Sponge Bob on it.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="122">YES</temporary>
+    <children>
+      <child nodeId="node-0x414470" />
+    </children>
+  </item>
+  <item nodeId="node-0x414470">
+    <command xml:space="preserve">open it</command>
+    <result xml:space="preserve">You open Lunchbox, revealing a sandwich.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="122">YES</temporary>
+    <children>
+      <child nodeId="node-0x413c80" />
+    </children>
+  </item>
+  <item nodeId="node-0x413c80">
+    <command xml:space="preserve">takeit</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="122">YES</temporary>
+    <children>
+      <child nodeId="node-0x413c10" />
+    </children>
+  </item>
+  <item nodeId="node-0x413c10">
+    <command xml:space="preserve">take it</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="122">YES</temporary>
+    <children>
+      <child nodeId="node-0x413ba0" />
+    </children>
+  </item>
+  <item nodeId="node-0x413ba0">
+    <command xml:space="preserve">talk to teacher jon</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="122">YES</temporary>
+    <children>
+      <child nodeId="node-0x413b30" />
+    </children>
+  </item>
+  <item nodeId="node-0x413b30">
+    <command xml:space="preserve">x jon</command>
+    <result xml:space="preserve">Just an ordinary teacher, combed hair and a a collared shirt.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="122">YES</temporary>
+    <children>
+      <child nodeId="node-0x413ac0" />
+    </children>
+  </item>
+  <item nodeId="node-0x413ac0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Ship Wreckage
+An old wooden ship lies here and is covered with marine life, it has become one with nature. An great white shark named Bob is swimming around.
+
+You can see Bob here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="122">YES</temporary>
+    <children>
+      <child nodeId="node-0x413a50" />
+    </children>
+  </item>
+  <item nodeId="node-0x413a50">
+    <command xml:space="preserve">talk to bob</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="122">YES</temporary>
+    <children>
+      <child nodeId="node-0x4139e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4139e0">
+    <command xml:space="preserve">x bob</command>
+    <result xml:space="preserve">a HUNGRY great white shark, you better have good reason to talk to him.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="122">YES</temporary>
+    <children>
+      <child nodeId="node-0x413970" />
+    </children>
+  </item>
+  <item nodeId="node-0x413970">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Jellyfish Fields
+A endless group of giant jelly fish bob up and down, Mr Jelly is the leader.
+
+A small blue fish name Annie is swimming in circles.
+
+You can see Annie here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="122">YES</temporary>
+    <children>
+      <child nodeId="node-0x413900" />
+    </children>
+  </item>
+  <item nodeId="node-0x413900">
+    <command xml:space="preserve">x mr jelly</command>
+    <result xml:space="preserve">just relaxing in the water, taking a nap.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="122">YES</temporary>
+    <children>
+      <child nodeId="node-0x413890" />
+    </children>
+  </item>
+  <item nodeId="node-0x413890">
+    <command xml:space="preserve">x annie</command>
+    <result xml:space="preserve">A small blue fish with a yellow dorsil fin.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="122">YES</temporary>
+    <children>
+      <child nodeId="node-0x413820" />
+    </children>
+  </item>
+  <item nodeId="node-0x413820">
+    <command xml:space="preserve">ask annie about omen</command>
+    <result xml:space="preserve">Yes! I&apos;ve seen him. umm... I think he was by the ...... no, he was by the .....
+
+ugggg. I can&apos;t remember anything, if you find a memory pill to help me out, I can denfinetly help you.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="122">YES</temporary>
+    <children>
+      <child nodeId="node-0x4137b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4137b0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Seaweed Forest
+a dense forest on seaweed lies in front of you. Mysterious and dangerous looking, you were told as a child to not go near here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="122">YES</temporary>
+    <children>
+      <child nodeId="node-0x413740" />
+    </children>
+  </item>
+  <item nodeId="node-0x413740">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Jellyfish Fields
+A endless group of giant jelly fish bob up and down, Mr Jelly is the leader.
+
+A small blue fish name Annie is swimming in circles.
+
+You can see Annie here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="122">YES</temporary>
+    <children>
+      <child nodeId="node-0x4136d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4136d0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Ship Wreckage
+An old wooden ship lies here and is covered with marine life, it has become one with nature. An great white shark named Bob is swimming around.
+
+You can see Bob here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="122">YES</temporary>
+    <children>
+      <child nodeId="node-0x413660" />
+    </children>
+  </item>
+  <item nodeId="node-0x413660">
+    <command xml:space="preserve">ask bob about memory pill</command>
+    <result xml:space="preserve">I may have one on me, but I&apos;m too hungry to remember!!!!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="122">YES</temporary>
+    <children>
+      <child nodeId="node-0x4135f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4135f0">
+    <command xml:space="preserve">give bob sandwich</command>
+    <result xml:space="preserve">(first taking the sandwich)
+You hand the sandwich to Bob and he immidiatly devours it.
+
+&quot;thanks for the food, I was thinking about eating you. I think this will help you out, I found a box filled with medical stuff. Here, take it.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="122">YES</temporary>
+    <children>
+      <child nodeId="node-0x413580" />
+    </children>
+  </item>
+  <item nodeId="node-0x413580">
+    <command xml:space="preserve">x box</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="122">YES</temporary>
+    <children>
+      <child nodeId="node-0x413cd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x413cd0">
+    <command xml:space="preserve">x kit</command>
+    <result xml:space="preserve">a rusty metal box with a red plus sign on it.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="122">YES</temporary>
+    <children>
+      <child nodeId="node-0x413d40" />
+    </children>
+  </item>
+  <item nodeId="node-0x413d40">
+    <command xml:space="preserve">open it</command>
+    <result xml:space="preserve">You open medical kit, revealing memory pill.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="122">YES</temporary>
+    <children>
+      <child nodeId="node-0x413db0" />
+    </children>
+  </item>
+  <item nodeId="node-0x413db0">
+    <command xml:space="preserve">take it</command>
+    <result xml:space="preserve">You already have that.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="122">YES</temporary>
+    <children>
+      <child nodeId="node-0x413e20" />
+    </children>
+  </item>
+  <item nodeId="node-0x413e20">
+    <command xml:space="preserve">take pill</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="122">YES</temporary>
+    <children>
+      <child nodeId="node-0x413e90" />
+    </children>
+  </item>
+  <item nodeId="node-0x413e90">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+School
+an empty classroom with only a teacher becuase school has ended. A forgotten lunchbox is in the corner.
+
+You can see Teacher Jon here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="122">YES</temporary>
+    <children>
+      <child nodeId="node-0x413510" />
+    </children>
+  </item>
+  <item nodeId="node-0x413510">
+    <command xml:space="preserve">ask jon about pill</command>
+    <result xml:space="preserve">There is no reply.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="122">YES</temporary>
+    <children>
+      <child nodeId="node-0x4134a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4134a0">
+    <command xml:space="preserve">ask jon about memory pill</command>
+    <result xml:space="preserve">Memory pill?? Is that even a thing?? Never heard of it, I only teach 3rd grade math.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="122">YES</temporary>
+    <children>
+      <child nodeId="node-0x413430" />
+    </children>
+  </item>
+  <item nodeId="node-0x413430">
+    <command xml:space="preserve">ask jon about omen</command>
+    <result xml:space="preserve">Sorry I haven&apos;t seen him since school ended, might want to try someone else.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="122">YES</temporary>
+    <children>
+      <child nodeId="node-0x4133c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4133c0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="122">YES</temporary>
+    <children>
+      <child nodeId="node-0x413350" />
+    </children>
+  </item>
+  <item nodeId="node-0x413350">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Ship Wreckage
+An old wooden ship lies here and is covered with marine life, it has become one with nature. An great white shark named Bob is swimming around.
+
+You can see Bob here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="122">YES</temporary>
+    <children>
+      <child nodeId="node-0x4132e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4132e0">
+    <command xml:space="preserve">ask bob about omen</command>
+    <result xml:space="preserve">I&apos;m hungry give me food before I eat you!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="122">YES</temporary>
+    <children>
+      <child nodeId="node-0x413270" />
+    </children>
+  </item>
+  <item nodeId="node-0x413270">
+    <command xml:space="preserve">give bob sandwich</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="122">YES</temporary>
+    <children>
+      <child nodeId="node-0x413200" />
+    </children>
+  </item>
+  <item nodeId="node-0x413200">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  memory pill
+  medical kit (open but empty)
+  Lunchbox (open but empty)
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="122">YES</temporary>
+    <children>
+      <child nodeId="node-0x413190" />
+    </children>
+  </item>
+  <item nodeId="node-0x413190">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="122">YES</temporary>
+    <children>
+      <child nodeId="node-0x413120" />
+    </children>
+  </item>
+  <item nodeId="node-0x413120">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Jellyfish Fields
+A endless group of giant jelly fish bob up and down, Mr Jelly is the leader.
+
+A small blue fish name Annie is swimming in circles.
+
+You can see Annie here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="122">YES</temporary>
+    <children>
+      <child nodeId="node-0x4130b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4130b0">
+    <command xml:space="preserve">give annie memory pill</command>
+    <result xml:space="preserve">You hand the pill to Annie and hope for the best.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="122">YES</temporary>
+    <children>
+      <child nodeId="node-0x413040" />
+    </children>
+  </item>
+  <item nodeId="node-0x413040">
+    <command xml:space="preserve">give mr jelly memory pill</command>
+    <result xml:space="preserve">You can only do that to something animate.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="122">YES</temporary>
+    <children>
+      <child nodeId="node-0x412fd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x412fd0">
+    <command xml:space="preserve">give memory pill to annie</command>
+    <result xml:space="preserve">You hand the pill to Annie and hope for the best.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="122">YES</temporary>
+    <children>
+      <child nodeId="node-0x412f60" />
+    </children>
+  </item>
+  <item nodeId="node-0x412f60">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="121">YES</temporary>
+  </item>
+  <item nodeId="node-0x412ef0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Ship Wreckage
+You can see Bob here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="10">YES</temporary>
+    <children>
+      <child nodeId="node-0x412da0" />
+      <child nodeId="node-0x412e80" />
+    </children>
+  </item>
+  <item nodeId="node-0x412e80">
+    <command xml:space="preserve">talk to bob</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="10">YES</temporary>
+    <children>
+      <child nodeId="node-0x412e10" />
+    </children>
+  </item>
+  <item nodeId="node-0x412e10">
+    <command xml:space="preserve">ask bob about food</command>
+    <result xml:space="preserve">ID.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="9">YES</temporary>
+  </item>
+  <item nodeId="node-0x412da0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Jellyfish Fields
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="7">YES</temporary>
+    <children>
+      <child nodeId="node-0x412d30" />
+    </children>
+  </item>
+  <item nodeId="node-0x412d30">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Seaweed Forest
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="7">YES</temporary>
+    <children>
+      <child nodeId="node-0x412cc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x412cc0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Jellyfish Fields
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="7">YES</temporary>
+    <children>
+      <child nodeId="node-0x412c50" />
+    </children>
+  </item>
+  <item nodeId="node-0x412c50">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Ship Wreckage
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="6">YES</temporary>
+  </item>
+  <item nodeId="node-0x412be0">
+    <command xml:space="preserve">x lunchbox</command>
+    <result xml:space="preserve">an old tin box with Sponge Bob on it.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="13">YES</temporary>
+    <children>
+      <child nodeId="node-0x412b70" />
+    </children>
+  </item>
+  <item nodeId="node-0x412b70">
+    <command xml:space="preserve">open box</command>
+    <result xml:space="preserve">You open medical box, revealing nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="12">YES</temporary>
+  </item>
+  <item nodeId="node-0x412b00">
+    <command xml:space="preserve">open box</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="20">YES</temporary>
+    <children>
+      <child nodeId="node-0x412a90" />
+    </children>
+  </item>
+  <item nodeId="node-0x412a90">
+    <command xml:space="preserve">x lunch box</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="20">YES</temporary>
+    <children>
+      <child nodeId="node-0x412a20" />
+    </children>
+  </item>
+  <item nodeId="node-0x412a20">
+    <command xml:space="preserve">xbox</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="20">YES</temporary>
+    <children>
+      <child nodeId="node-0x4129b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4129b0">
+    <command xml:space="preserve">x box</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="20">YES</temporary>
+    <children>
+      <child nodeId="node-0x412940" />
+    </children>
+  </item>
+  <item nodeId="node-0x412940">
+    <command xml:space="preserve">x lunchbox</command>
+    <result xml:space="preserve">an old tin box with Sponge Bob on it.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="20">YES</temporary>
+    <children>
+      <child nodeId="node-0x4128d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4128d0">
+    <command xml:space="preserve">open it</command>
+    <result xml:space="preserve">You open Lunchbox, revealing Sandwich.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="19">YES</temporary>
+  </item>
+  <item nodeId="node-0x412860">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="6">YES</temporary>
+    <children>
+      <child nodeId="node-0x4127f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4127f0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+School
+an empty classroom with only a teacher becuase school has ended. A forgotten lunchbox is in the corner.
+
+You can see Teacher Jon here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="6">YES</temporary>
+    <children>
+      <child nodeId="node-0x412780" />
+    </children>
+  </item>
+  <item nodeId="node-0x412780">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Ship Wreckage
+You can see Bob here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="6">YES</temporary>
+    <children>
+      <child nodeId="node-0x412710" />
+    </children>
+  </item>
+  <item nodeId="node-0x412710">
+    <command xml:space="preserve">talk to bob</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="6">YES</temporary>
+    <children>
+      <child nodeId="node-0x4126a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x4126a0">
+    <command xml:space="preserve">x bob</command>
+    <result xml:space="preserve">a HUNGRY great white shark, you better have good reason to talk to him.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="5">YES</temporary>
+  </item>
+</Skein>
