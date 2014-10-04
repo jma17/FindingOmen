@@ -30,7 +30,7 @@ When play begins: say "You are an ordinary clown fish with an orange body and wh
 
 Find Omen."
 
-Your Home is a room. "protected by a sea anemone, the only thing here is some seaweed.
+Your Home is a room. "Home sweet Home. Protected by a sea anemone, one of the few places that you feel safe in. The only thing here is some seaweed.
 
 School is east".
 
@@ -39,7 +39,7 @@ seaweed is a thing in your home. it is undescribed. it is scenery. the descripti
 sea anemone is a thing in your home. it is undescribed. it is scenery. the description is "pink and used as protection from predators."
 
 
-School is a room. "an empty classroom with only a teacher becuase school has ended. A forgotten lunchbox is in the corner.
+School is a room. "an empty classroom with only a teacher becuase school has ended. Inpirational posters hang from the walls. A forgotten lunchbox is in the corner.
 
 your home is west, the ship wreckage is south"
 
@@ -55,7 +55,7 @@ in school is a male person called Teacher Jon. the description of Jon is "Just a
 
 
 
-Ship Wreckage is a room. "An old wooden ship lies here and is covered with marine life, it has become one with nature. An great white shark named Bob is swimming around.
+Ship Wreckage is a room. "An old wooden ship lies here and is covered with marine life, it has become one with nature. A school of sardines swim by. An great white shark named Bob is swimming around.
 
 Jellyfish fields is east, school is north".
 
@@ -69,9 +69,11 @@ in ship wreckage is a male person called Bob. the description of Bob is "a HUNGR
 
 Instead of giving the sandwich to Bob: say "You hand the sandwich to Bob and he immidiatly devours it. 
 
-'thanks for the food, I was thinking about eating you. I think this will help you out, I found a box filled with medical stuff. Here, take it."; remove the sandwich from play; move medical kit to player.
+'thanks for the food, I was thinking about eating you. I think this will help you out, I found a kit filled with medical stuff. Here, take it."; remove the sandwich from play; move medical kit to player.
 
 medical kit is a thing. It is a closed openable container. it is undescribed. the description is "a rusty metal box with a red plus sign on it."
+
+band-aid is a thing in the medical kit. the description is "an ordinary brown band-aid."
 
 
 memory pill is a thing in the medical kit. the description is "small and red, 'Instantly restores your memory!'"
@@ -80,7 +82,7 @@ instead of asking the Bob about "food": say "I'm hungry give me food before I ea
 
 instead of asking the Bob about "sandwich": say "I'm hungry give me food before I eat you!"
 
-Jellyfish Fields is a room. "A endless group of giant jelly fish bob up and down, Mr Jelly is the leader. 
+Jellyfish Fields is a room. "A endless group of giant jelly fish bob up and down. Mr Jelly is relaxing with his friends in the warm water. He is the leader. 
 
 A small blue fish name Annie is swimming in circles.
 
