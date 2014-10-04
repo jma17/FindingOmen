@@ -1,5 +1,14 @@
 "Finding Omen" by Jaryd Ma
 
+Casting hint is an action applying to nothing.
+
+Understand "hint" as casting hint.
+
+Instead of casting hint:
+	say "Have you've asked people about 'Omen', 'memory pill' ???".
+
+
+
 
 the description of the player is "You are an ordinary clown fish with an orange body and white stripes."
 
@@ -21,14 +30,18 @@ When play begins: say "You are an ordinary clown fish with an orange body and wh
 
 Find Omen."
 
-Your Home is a room. "protected by a sea anemone, the only thing here is some seaweed."
+Your Home is a room. "protected by a sea anemone, the only thing here is some seaweed.
+
+School is east".
 
 seaweed is a thing in your home. it is undescribed. it is scenery. the description is "green, smelly and salty."
 
 sea anemone is a thing in your home. it is undescribed. it is scenery. the description is "pink and used as protection from predators."
 
 
-School is a room. "an empty classroom with only a teacher becuase school has ended. A forgotten lunchbox is in the corner."
+School is a room. "an empty classroom with only a teacher becuase school has ended. A forgotten lunchbox is in the corner.
+
+your home is west, the ship wreckage is south"
 
 school is east of home.
 
@@ -42,9 +55,13 @@ in school is a male person called Teacher Jon. the description of Jon is "Just a
 
 
 
-Ship Wreckage is a room. "An old wooden ship lies here and is covered with marine life, it has become one with nature. An great white shark named Bob is swimming around."
+Ship Wreckage is a room. "An old wooden ship lies here and is covered with marine life, it has become one with nature. An great white shark named Bob is swimming around.
+
+Jellyfish fields is east, school is north".
 
 wooden ship is a thing in the ship wreckage. it is undescribed. it is scenery. the description is "a former fishing boat has turned into a beautiful home for many."
+
+
 
 ship wreckage is south of school.
 
@@ -65,14 +82,18 @@ instead of asking the Bob about "sandwich": say "I'm hungry give me food before 
 
 Jellyfish Fields is a room. "A endless group of giant jelly fish bob up and down, Mr Jelly is the leader. 
 
-A small blue fish name Annie is swimming in circles."
+A small blue fish name Annie is swimming in circles.
+
+Ship wreckage is west, seaweed forest is south".
 
 Jellyfish fields is east of ship wreckage.
 Mr jelly is a thing in the jellyfish fields. it is undescribed. the description is "just relaxing in the water, taking a nap."
 
 in Jellyfish Fields is a female person called Annie. the description of Annie is "A small blue fish with a yellow dorsil fin." 
 
-Seaweed Forest is a room. "a dense forest on seaweed lies in front of you. Mysterious and dangerous looking, you were told as a child to not go near here."
+Seaweed Forest is a room. "a dense forest on seaweed lies in front of you. Mysterious and dangerous looking, you were told as a child to not go near here.
+
+Jellyfish fields is north".
 
 
 
@@ -84,4 +105,15 @@ Omen is a thing. it is undescribed. the description is "Your brother! an orange 
 	Annie swallows the pill and starts to pass out. She immidiaty wakes up and tells you that she heard a voice from the seaweed forest. You swim there as fast as you can to find Omen tangled in the seaweed. He is relieved to see you and says 'what took you so long?'";
 	end the story saying "You Win".
 	
-
+[Solution:
+east
+x lunchbox
+open it
+take sandwich
+south
+give bob sandwich
+x medical kit
+open it
+take medicine pill
+east
+give annie memory pill]
