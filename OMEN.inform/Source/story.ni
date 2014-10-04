@@ -1,6 +1,7 @@
 "Finding Omen" by Jaryd Ma
 
 
+the description of the player is "You are an ordinary clown fish with an orange body and white stripes."
 
 instead of asking the Bob about "omen": say "I'm hungry give me food before I eat you!"
 
