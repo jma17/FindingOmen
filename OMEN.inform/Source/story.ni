@@ -1,5 +1,7 @@
 "Finding Omen" by Jaryd Ma
 
+
+[jon nakagawa helped me with the hints code]
 Casting hint is an action applying to nothing.
 
 Understand "hint" as casting hint.
@@ -12,6 +14,7 @@ Instead of casting hint:
 
 the description of the player is "You are an ordinary clown fish with an orange body and white stripes."
 
+[I got this code from a day for spelling (ron)]
 instead of asking the Bob about "omen": say "I'm hungry give me food before I eat you!"
 
 instead of asking the Teacher Jon about "omen": say "Sorry I haven't seen him since school ended, might want to try someone else."
@@ -49,7 +52,7 @@ school is east of home.
 
 Lunchbox is a thing in the school. it is undescribed. It is a closed openable container. the description is "an old tin box with Sponge Bob on it."
 
-a sandwich is a thing in the lunchbox. the description is "a yummy ham and cheese sandwich on white bread with the crust cut off."
+a sandwich is a thing in the lunchbox. the description is "a fish sandwich on white bread with the crust cut off, must have been a shark's lunch."
 
 in school is a male person called Teacher Jon. the description of Jon is "Just an ordinary teacher, combed hair and a a collared shirt."
 
@@ -64,9 +67,9 @@ wooden ship is a thing in the ship wreckage. it is undescribed. it is scenery. t
 
 
 ship wreckage is south of school.
-
+[I got the computer characters from a day for spelling]
 in ship wreckage is a male person called Bob. the description of Bob is "a HUNGRY great white shark, you better have good reason to talk to him."
-
+[I got this code from a day for spelling]
 Instead of giving the sandwich to Bob: say "You hand the sandwich to Bob and he immidiatly devours it. 
 
 'thanks for the food, I was thinking about eating you. I think this will help you out, I found a kit filled with medical stuff. Here, take it."; remove the sandwich from play; move medical kit to player.
@@ -101,7 +104,7 @@ Jellyfish fields is north".
 
 Seaweed Forest is south of Jellyfish fields.
 Omen is a thing. it is undescribed. the description is "Your brother! an orange clown fish, a mirror image of you."
-
+[I got this code from 'my house' game and from a day for spelling]
 	Instead of giving the memory pill to Annie: say "You hand the pill to Annie and hope for the best. 
 	
 	Annie swallows the pill and starts to pass out. She immidiaty wakes up and tells you that she heard a voice from the seaweed forest. You swim there as fast as you can to find Omen tangled in the seaweed. He is relieved to see you and says 'what took you so long?'";
