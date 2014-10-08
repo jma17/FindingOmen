@@ -18,13 +18,13 @@ An Interactive Fiction by Jaryd Ma
 Release 1 / Serial number 141003 / Inform 7 build 6L38 (I6/v6.33 lib 6/12N) SD
 
 Your Home
-protected by a sea anemone, the only thing here is some seaweed.
+Home sweet Home. Protected by a sea anemone, one of the few places that you feel safe in. The only thing here is some seaweed.
 
 School is east
 
 &gt;</result>
     <played>YES</played>
-    <changed>NO</changed>
+    <changed>YES</changed>
     <temporary score="30">NO</temporary>
     <children>
       <child nodeId="node-0xc6b84c0" />

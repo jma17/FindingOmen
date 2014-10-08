@@ -1,6 +1,9 @@
 "Finding Omen" by Jaryd Ma
 
 
+Release along with cover art ("Clown Fish.")
+
+
 [jon nakagawa helped me with the hints code]
 Casting hint is an action applying to nothing.
 
