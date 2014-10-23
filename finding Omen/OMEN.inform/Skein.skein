@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
-<Skein rootNode="node-0xecf20a0" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+<Skein rootNode="node-0xc6a7090" xmlns="http://www.logicalshift.org.uk/IF/Skein">
   <generator>Zoom</generator>
-  <activeNode nodeId="node-0xecf20a0" />
-  <item nodeId="node-0xecf20a0">
+  <activeNode nodeId="node-0xc6a7090" />
+  <item nodeId="node-0xc6a7090">
     <command xml:space="preserve">- start -</command>
     <result xml:space="preserve">
 
@@ -27,23 +27,15 @@ School is east
     <changed>YES</changed>
     <temporary score="30">NO</temporary>
     <children>
-      <child nodeId="node-0xecf1a00" />
-      <child nodeId="node-0xec6d670" />
-      <child nodeId="node-0xec70540" />
-      <child nodeId="node-0xec701c0" />
-      <child nodeId="node-0xecf1a50" />
-      <child nodeId="node-0xec6d210" />
+      <child nodeId="node-0xc6a7100" />
+      <child nodeId="node-0xc61a460" />
+      <child nodeId="node-0xc61c4d0" />
+      <child nodeId="node-0xc61a230" />
+      <child nodeId="node-0xc61c850" />
+      <child nodeId="node-0xc6a7150" />
     </children>
   </item>
-  <item nodeId="node-0xec6d210">
-    <command xml:space="preserve">hint</command>
-    <result xml:space="preserve">test
-&gt;</result>
-    <played>YES</played>
-    <changed>NO</changed>
-    <temporary score="15">YES</temporary>
-  </item>
-  <item nodeId="node-0xecf1a50">
+  <item nodeId="node-0xc6a7150">
     <command xml:space="preserve">x seaweed</command>
     <result xml:space="preserve">green, smelly and salty.
 
@@ -52,10 +44,10 @@ School is east
     <changed>YES</changed>
     <temporary score="42">YES</temporary>
     <children>
-      <child nodeId="node-0xeca34a0" />
+      <child nodeId="node-0xc6a71a0" />
     </children>
   </item>
-  <item nodeId="node-0xeca34a0">
+  <item nodeId="node-0xc6a71a0">
     <command xml:space="preserve">take seaweed</command>
     <result xml:space="preserve">That&apos;s hardly portable.
 
@@ -64,10 +56,10 @@ School is east
     <changed>YES</changed>
     <temporary score="42">YES</temporary>
     <children>
-      <child nodeId="node-0xeca34f0" />
+      <child nodeId="node-0xc6a71f0" />
     </children>
   </item>
-  <item nodeId="node-0xeca34f0">
+  <item nodeId="node-0xc6a71f0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -76,10 +68,10 @@ School is east
     <changed>YES</changed>
     <temporary score="42">YES</temporary>
     <children>
-      <child nodeId="node-0xecef950" />
+      <child nodeId="node-0xc6a7260" />
     </children>
   </item>
-  <item nodeId="node-0xecef950">
+  <item nodeId="node-0xc6a7260">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -88,10 +80,10 @@ School is east
     <changed>YES</changed>
     <temporary score="42">YES</temporary>
     <children>
-      <child nodeId="node-0xecef9a0" />
+      <child nodeId="node-0xc6a72d0" />
     </children>
   </item>
-  <item nodeId="node-0xecef9a0">
+  <item nodeId="node-0xc6a72d0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -100,10 +92,10 @@ School is east
     <changed>YES</changed>
     <temporary score="42">YES</temporary>
     <children>
-      <child nodeId="node-0xec71100" />
+      <child nodeId="node-0xc61d070" />
     </children>
   </item>
-  <item nodeId="node-0xec71100">
+  <item nodeId="node-0xc61d070">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 School
@@ -116,10 +108,10 @@ You can see Teacher Jon here.
     <changed>YES</changed>
     <temporary score="42">YES</temporary>
     <children>
-      <child nodeId="node-0xec71150" />
+      <child nodeId="node-0xc61d020" />
     </children>
   </item>
-  <item nodeId="node-0xec71150">
+  <item nodeId="node-0xc61d020">
     <command xml:space="preserve">take teacher jon</command>
     <result xml:space="preserve">I don&apos;t suppose Teacher Jon would care for that.
 
@@ -128,10 +120,10 @@ You can see Teacher Jon here.
     <changed>YES</changed>
     <temporary score="42">YES</temporary>
     <children>
-      <child nodeId="node-0xec711a0" />
+      <child nodeId="node-0xc61cfd0" />
     </children>
   </item>
-  <item nodeId="node-0xec711a0">
+  <item nodeId="node-0xc61cfd0">
     <command xml:space="preserve">talk to jon</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -140,10 +132,10 @@ You can see Teacher Jon here.
     <changed>YES</changed>
     <temporary score="42">YES</temporary>
     <children>
-      <child nodeId="node-0xec711f0" />
+      <child nodeId="node-0xc61cf60" />
     </children>
   </item>
-  <item nodeId="node-0xec711f0">
+  <item nodeId="node-0xc61cf60">
     <command xml:space="preserve">x lunchbox</command>
     <result xml:space="preserve">an old tin box with Sponge Bob on it.
 
@@ -152,10 +144,10 @@ You can see Teacher Jon here.
     <changed>YES</changed>
     <temporary score="42">YES</temporary>
     <children>
-      <child nodeId="node-0xec71240" />
+      <child nodeId="node-0xc61cef0" />
     </children>
   </item>
-  <item nodeId="node-0xec71240">
+  <item nodeId="node-0xc61cef0">
     <command xml:space="preserve">open it</command>
     <result xml:space="preserve">You open Lunchbox, revealing a sandwich.
 
@@ -164,10 +156,10 @@ You can see Teacher Jon here.
     <changed>YES</changed>
     <temporary score="42">YES</temporary>
     <children>
-      <child nodeId="node-0xec71370" />
+      <child nodeId="node-0xc61cdc0" />
     </children>
   </item>
-  <item nodeId="node-0xec71370">
+  <item nodeId="node-0xc61cdc0">
     <command xml:space="preserve">take sandwich</command>
     <result xml:space="preserve">Taken.
 
@@ -176,10 +168,10 @@ You can see Teacher Jon here.
     <changed>YES</changed>
     <temporary score="42">YES</temporary>
     <children>
-      <child nodeId="node-0xec713c0" />
+      <child nodeId="node-0xc6a7360" />
     </children>
   </item>
-  <item nodeId="node-0xec713c0">
+  <item nodeId="node-0xc6a7360">
     <command xml:space="preserve">x it</command>
     <result xml:space="preserve">a yummy ham and cheese sandwich on white bread with the crust cut off.
 
@@ -188,10 +180,10 @@ You can see Teacher Jon here.
     <changed>YES</changed>
     <temporary score="42">YES</temporary>
     <children>
-      <child nodeId="node-0xec71410" />
+      <child nodeId="node-0xc61cd70" />
     </children>
   </item>
-  <item nodeId="node-0xec71410">
+  <item nodeId="node-0xc61cd70">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Ship Wreckage
@@ -202,10 +194,10 @@ You can see Bob here.
     <changed>YES</changed>
     <temporary score="42">YES</temporary>
     <children>
-      <child nodeId="node-0xec71460" />
+      <child nodeId="node-0xc61cd00" />
     </children>
   </item>
-  <item nodeId="node-0xec71460">
+  <item nodeId="node-0xc61cd00">
     <command xml:space="preserve">talk to bob</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -214,10 +206,10 @@ You can see Bob here.
     <changed>YES</changed>
     <temporary score="42">YES</temporary>
     <children>
-      <child nodeId="node-0xec714b0" />
+      <child nodeId="node-0xc61cc90" />
     </children>
   </item>
-  <item nodeId="node-0xec714b0">
+  <item nodeId="node-0xc61cc90">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -226,10 +218,10 @@ You can see Bob here.
     <changed>YES</changed>
     <temporary score="42">YES</temporary>
     <children>
-      <child nodeId="node-0xec71520" />
+      <child nodeId="node-0xc61cc20" />
     </children>
   </item>
-  <item nodeId="node-0xec71520">
+  <item nodeId="node-0xc61cc20">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Jellyfish Fields
@@ -240,10 +232,10 @@ You can see Annie here.
     <changed>YES</changed>
     <temporary score="42">YES</temporary>
     <children>
-      <child nodeId="node-0xec71590" />
+      <child nodeId="node-0xc61cbb0" />
     </children>
   </item>
-  <item nodeId="node-0xec71590">
+  <item nodeId="node-0xc61cbb0">
     <command xml:space="preserve">talk to annie</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -252,10 +244,10 @@ You can see Annie here.
     <changed>YES</changed>
     <temporary score="42">YES</temporary>
     <children>
-      <child nodeId="node-0xec71600" />
+      <child nodeId="node-0xc61cb40" />
     </children>
   </item>
-  <item nodeId="node-0xec71600">
+  <item nodeId="node-0xc61cb40">
     <command xml:space="preserve">x annie</command>
     <result xml:space="preserve">A small blue fish with a yellow dorsil fin.
 
@@ -264,10 +256,10 @@ You can see Annie here.
     <changed>YES</changed>
     <temporary score="42">YES</temporary>
     <children>
-      <child nodeId="node-0xec712b0" />
+      <child nodeId="node-0xc61ce70" />
     </children>
   </item>
-  <item nodeId="node-0xec712b0">
+  <item nodeId="node-0xc61ce70">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Seaweed Forest
@@ -277,10 +269,10 @@ Seaweed Forest
     <changed>YES</changed>
     <temporary score="42">YES</temporary>
     <children>
-      <child nodeId="node-0xec71300" />
+      <child nodeId="node-0xc61ce10" />
     </children>
   </item>
-  <item nodeId="node-0xec71300">
+  <item nodeId="node-0xc61ce10">
     <command xml:space="preserve">take all</command>
     <result xml:space="preserve">(the sandwich)
 You already have that.
@@ -290,10 +282,10 @@ You already have that.
     <changed>YES</changed>
     <temporary score="42">YES</temporary>
     <children>
-      <child nodeId="node-0xec700e0" />
+      <child nodeId="node-0xc61c930" />
     </children>
   </item>
-  <item nodeId="node-0xec700e0">
+  <item nodeId="node-0xc61c930">
     <command xml:space="preserve">x omen</command>
     <result xml:space="preserve">Your brother! an orange clown fish, a mirror image of you.
 
@@ -302,10 +294,10 @@ You already have that.
     <changed>YES</changed>
     <temporary score="42">YES</temporary>
     <children>
-      <child nodeId="node-0xec70150" />
+      <child nodeId="node-0xc61c8c0" />
     </children>
   </item>
-  <item nodeId="node-0xec70150">
+  <item nodeId="node-0xc61c8c0">
     <command xml:space="preserve">x seaweed</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -314,7 +306,7 @@ You already have that.
     <changed>YES</changed>
     <temporary score="41">YES</temporary>
   </item>
-  <item nodeId="node-0xec701c0">
+  <item nodeId="node-0xc61c850">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -323,10 +315,10 @@ You already have that.
     <changed>NO</changed>
     <temporary score="16">YES</temporary>
     <children>
-      <child nodeId="node-0xec70230" />
+      <child nodeId="node-0xc61c7e0" />
     </children>
   </item>
-  <item nodeId="node-0xec70230">
+  <item nodeId="node-0xc61c7e0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -335,10 +327,10 @@ You already have that.
     <changed>YES</changed>
     <temporary score="15">YES</temporary>
     <children>
-      <child nodeId="node-0xec702a0" />
+      <child nodeId="node-0xc61c770" />
     </children>
   </item>
-  <item nodeId="node-0xec702a0">
+  <item nodeId="node-0xc61c770">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 School
@@ -348,10 +340,10 @@ School
     <changed>YES</changed>
     <temporary score="15">YES</temporary>
     <children>
-      <child nodeId="node-0xec70310" />
+      <child nodeId="node-0xc61c700" />
     </children>
   </item>
-  <item nodeId="node-0xec70310">
+  <item nodeId="node-0xc61c700">
     <command xml:space="preserve">x lunchbox</command>
     <result xml:space="preserve">You see nothing special about Lunchbox.
 
@@ -360,10 +352,10 @@ School
     <changed>YES</changed>
     <temporary score="15">YES</temporary>
     <children>
-      <child nodeId="node-0xec70380" />
+      <child nodeId="node-0xc61c690" />
     </children>
   </item>
-  <item nodeId="node-0xec70380">
+  <item nodeId="node-0xc61c690">
     <command xml:space="preserve">open lunchbox</command>
     <result xml:space="preserve">You open Lunchbox.
 
@@ -372,10 +364,10 @@ School
     <changed>YES</changed>
     <temporary score="15">YES</temporary>
     <children>
-      <child nodeId="node-0xec703f0" />
+      <child nodeId="node-0xc61c620" />
     </children>
   </item>
-  <item nodeId="node-0xec703f0">
+  <item nodeId="node-0xc61c620">
     <command xml:space="preserve">take box</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -384,10 +376,10 @@ School
     <changed>YES</changed>
     <temporary score="15">YES</temporary>
     <children>
-      <child nodeId="node-0xec70460" />
+      <child nodeId="node-0xc61c5b0" />
     </children>
   </item>
-  <item nodeId="node-0xec70460">
+  <item nodeId="node-0xc61c5b0">
     <command xml:space="preserve">take luchbox</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -396,16 +388,25 @@ School
     <changed>YES</changed>
     <temporary score="15">YES</temporary>
     <children>
-      <child nodeId="node-0xec704d0" />
+      <child nodeId="node-0xc61c540" />
     </children>
   </item>
-  <item nodeId="node-0xec704d0">
+  <item nodeId="node-0xc61c540">
     <command xml:space="preserve">take lunchbox</command>
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="14">YES</temporary>
   </item>
-  <item nodeId="node-0xec70540">
+  <item nodeId="node-0xc61a230">
+    <command xml:space="preserve">x player</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1">YES</temporary>
+  </item>
+  <item nodeId="node-0xc61c4d0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 School
@@ -420,15 +421,15 @@ You can see Teacher Jon here.
     <changed>NO</changed>
     <temporary score="30">YES</temporary>
     <children>
-      <child nodeId="node-0xec6d9c0" />
-      <child nodeId="node-0xec6d8e0" />
-      <child nodeId="node-0xec6de20" />
-      <child nodeId="node-0xec6eaf0" />
-      <child nodeId="node-0xec6f980" />
-      <child nodeId="node-0xec6ff60" />
+      <child nodeId="node-0xc61a700" />
+      <child nodeId="node-0xc61a7e0" />
+      <child nodeId="node-0xc61a930" />
+      <child nodeId="node-0xc61aee0" />
+      <child nodeId="node-0xc61be30" />
+      <child nodeId="node-0xc61ca70" />
     </children>
   </item>
-  <item nodeId="node-0xec6ff60">
+  <item nodeId="node-0xc61ca70">
     <command xml:space="preserve">x box</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -437,10 +438,10 @@ You can see Teacher Jon here.
     <changed>YES</changed>
     <temporary score="14">YES</temporary>
     <children>
-      <child nodeId="node-0xec6ffb0" />
+      <child nodeId="node-0xc61c9c0" />
     </children>
   </item>
-  <item nodeId="node-0xec6ffb0">
+  <item nodeId="node-0xc61c9c0">
     <command xml:space="preserve">x lunchbox</command>
     <result xml:space="preserve">an old tin box with Sponge Bob on it.
 
@@ -449,10 +450,10 @@ You can see Teacher Jon here.
     <changed>YES</changed>
     <temporary score="14">YES</temporary>
     <children>
-      <child nodeId="node-0xec70000" />
+      <child nodeId="node-0xc61ca10" />
     </children>
   </item>
-  <item nodeId="node-0xec70000">
+  <item nodeId="node-0xc61ca10">
     <command xml:space="preserve">open it</command>
     <result xml:space="preserve">You open Lunchbox, revealing a sandwich.
 
@@ -461,10 +462,10 @@ You can see Teacher Jon here.
     <changed>YES</changed>
     <temporary score="14">YES</temporary>
     <children>
-      <child nodeId="node-0xec70070" />
+      <child nodeId="node-0xc61c220" />
     </children>
   </item>
-  <item nodeId="node-0xec70070">
+  <item nodeId="node-0xc61c220">
     <command xml:space="preserve">take it</command>
     <result xml:space="preserve">Taken.
 
@@ -473,10 +474,10 @@ You can see Teacher Jon here.
     <changed>YES</changed>
     <temporary score="14">YES</temporary>
     <children>
-      <child nodeId="node-0xec6f600" />
+      <child nodeId="node-0xc61c1b0" />
     </children>
   </item>
-  <item nodeId="node-0xec6f600">
+  <item nodeId="node-0xc61c1b0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Ship Wreckage
@@ -489,10 +490,10 @@ You can see Bob here.
     <changed>YES</changed>
     <temporary score="14">YES</temporary>
     <children>
-      <child nodeId="node-0xec6f670" />
+      <child nodeId="node-0xc61c140" />
     </children>
   </item>
-  <item nodeId="node-0xec6f670">
+  <item nodeId="node-0xc61c140">
     <command xml:space="preserve">give bob sandwich</command>
     <result xml:space="preserve">(first taking the sandwich)
 You hand the sandwich to Bob and he immidiatly devours it.
@@ -504,10 +505,10 @@ You hand the sandwich to Bob and he immidiatly devours it.
     <changed>YES</changed>
     <temporary score="14">YES</temporary>
     <children>
-      <child nodeId="node-0xec6f6e0" />
+      <child nodeId="node-0xc61c0d0" />
     </children>
   </item>
-  <item nodeId="node-0xec6f6e0">
+  <item nodeId="node-0xc61c0d0">
     <command xml:space="preserve">open kti</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -516,10 +517,10 @@ You hand the sandwich to Bob and he immidiatly devours it.
     <changed>YES</changed>
     <temporary score="14">YES</temporary>
     <children>
-      <child nodeId="node-0xec6f750" />
+      <child nodeId="node-0xc61c060" />
     </children>
   </item>
-  <item nodeId="node-0xec6f750">
+  <item nodeId="node-0xc61c060">
     <command xml:space="preserve">open kit</command>
     <result xml:space="preserve">You open medical kit, revealing memory pill.
 
@@ -528,10 +529,10 @@ You hand the sandwich to Bob and he immidiatly devours it.
     <changed>YES</changed>
     <temporary score="14">YES</temporary>
     <children>
-      <child nodeId="node-0xec6f7c0" />
+      <child nodeId="node-0xc61bff0" />
     </children>
   </item>
-  <item nodeId="node-0xec6f7c0">
+  <item nodeId="node-0xc61bff0">
     <command xml:space="preserve">take it</command>
     <result xml:space="preserve">You already have that.
 
@@ -540,10 +541,10 @@ You hand the sandwich to Bob and he immidiatly devours it.
     <changed>YES</changed>
     <temporary score="14">YES</temporary>
     <children>
-      <child nodeId="node-0xec6f830" />
+      <child nodeId="node-0xc61bf80" />
     </children>
   </item>
-  <item nodeId="node-0xec6f830">
+  <item nodeId="node-0xc61bf80">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -552,10 +553,10 @@ You hand the sandwich to Bob and he immidiatly devours it.
     <changed>YES</changed>
     <temporary score="14">YES</temporary>
     <children>
-      <child nodeId="node-0xec6f8a0" />
+      <child nodeId="node-0xc61bf10" />
     </children>
   </item>
-  <item nodeId="node-0xec6f8a0">
+  <item nodeId="node-0xc61bf10">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Jellyfish Fields
@@ -570,10 +571,10 @@ You can see Annie here.
     <changed>YES</changed>
     <temporary score="14">YES</temporary>
     <children>
-      <child nodeId="node-0xec6f910" />
+      <child nodeId="node-0xc61bea0" />
     </children>
   </item>
-  <item nodeId="node-0xec6f910">
+  <item nodeId="node-0xc61bea0">
     <command xml:space="preserve">give annie memory pill</command>
     <result xml:space="preserve">(first taking memory pill)
 You hand the pill to Annie and hope for the best.
@@ -592,7 +593,7 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="13">YES</temporary>
   </item>
-  <item nodeId="node-0xec6f980">
+  <item nodeId="node-0xc61be30">
     <command xml:space="preserve">take all</command>
     <result xml:space="preserve">There are none at all available!
 
@@ -601,10 +602,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>NO</changed>
     <temporary score="122">YES</temporary>
     <children>
-      <child nodeId="node-0xec6f010" />
+      <child nodeId="node-0xc61bdc0" />
     </children>
   </item>
-  <item nodeId="node-0xec6f010">
+  <item nodeId="node-0xc61bdc0">
     <command xml:space="preserve">x lunch box</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -613,10 +614,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>NO</changed>
     <temporary score="122">YES</temporary>
     <children>
-      <child nodeId="node-0xec6f060" />
+      <child nodeId="node-0xc61bd50" />
     </children>
   </item>
-  <item nodeId="node-0xec6f060">
+  <item nodeId="node-0xc61bd50">
     <command xml:space="preserve">x lunchbox</command>
     <result xml:space="preserve">an old tin box with Sponge Bob on it.
 
@@ -625,10 +626,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>NO</changed>
     <temporary score="122">YES</temporary>
     <children>
-      <child nodeId="node-0xec6f0d0" />
+      <child nodeId="node-0xc61bce0" />
     </children>
   </item>
-  <item nodeId="node-0xec6f0d0">
+  <item nodeId="node-0xc61bce0">
     <command xml:space="preserve">open it</command>
     <result xml:space="preserve">You open Lunchbox, revealing a sandwich.
 
@@ -637,10 +638,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>NO</changed>
     <temporary score="122">YES</temporary>
     <children>
-      <child nodeId="node-0xec6f140" />
+      <child nodeId="node-0xc61bc70" />
     </children>
   </item>
-  <item nodeId="node-0xec6f140">
+  <item nodeId="node-0xc61bc70">
     <command xml:space="preserve">takeit</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -649,10 +650,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>NO</changed>
     <temporary score="122">YES</temporary>
     <children>
-      <child nodeId="node-0xec6f1b0" />
+      <child nodeId="node-0xc61bc00" />
     </children>
   </item>
-  <item nodeId="node-0xec6f1b0">
+  <item nodeId="node-0xc61bc00">
     <command xml:space="preserve">take it</command>
     <result xml:space="preserve">Taken.
 
@@ -661,10 +662,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>NO</changed>
     <temporary score="122">YES</temporary>
     <children>
-      <child nodeId="node-0xec6f220" />
+      <child nodeId="node-0xc61bb90" />
     </children>
   </item>
-  <item nodeId="node-0xec6f220">
+  <item nodeId="node-0xc61bb90">
     <command xml:space="preserve">talk to teacher jon</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -673,10 +674,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>NO</changed>
     <temporary score="122">YES</temporary>
     <children>
-      <child nodeId="node-0xec6f290" />
+      <child nodeId="node-0xc61bb20" />
     </children>
   </item>
-  <item nodeId="node-0xec6f290">
+  <item nodeId="node-0xc61bb20">
     <command xml:space="preserve">x jon</command>
     <result xml:space="preserve">Just an ordinary teacher, combed hair and a a collared shirt.
 
@@ -685,10 +686,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>NO</changed>
     <temporary score="122">YES</temporary>
     <children>
-      <child nodeId="node-0xec6fc10" />
+      <child nodeId="node-0xc61c270" />
     </children>
   </item>
-  <item nodeId="node-0xec6fc10">
+  <item nodeId="node-0xc61c270">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Ship Wreckage
@@ -701,10 +702,10 @@ You can see Bob here.
     <changed>NO</changed>
     <temporary score="122">YES</temporary>
     <children>
-      <child nodeId="node-0xec6fc80" />
+      <child nodeId="node-0xc61c2e0" />
     </children>
   </item>
-  <item nodeId="node-0xec6fc80">
+  <item nodeId="node-0xc61c2e0">
     <command xml:space="preserve">talk to bob</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -713,10 +714,10 @@ You can see Bob here.
     <changed>NO</changed>
     <temporary score="122">YES</temporary>
     <children>
-      <child nodeId="node-0xec6fcf0" />
+      <child nodeId="node-0xc61c350" />
     </children>
   </item>
-  <item nodeId="node-0xec6fcf0">
+  <item nodeId="node-0xc61c350">
     <command xml:space="preserve">x bob</command>
     <result xml:space="preserve">a HUNGRY great white shark, you better have good reason to talk to him.
 
@@ -725,10 +726,10 @@ You can see Bob here.
     <changed>NO</changed>
     <temporary score="122">YES</temporary>
     <children>
-      <child nodeId="node-0xec6fd60" />
+      <child nodeId="node-0xc61c3c0" />
     </children>
   </item>
-  <item nodeId="node-0xec6fd60">
+  <item nodeId="node-0xc61c3c0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Jellyfish Fields
@@ -743,10 +744,10 @@ You can see Annie here.
     <changed>NO</changed>
     <temporary score="122">YES</temporary>
     <children>
-      <child nodeId="node-0xec6fdd0" />
+      <child nodeId="node-0xc61c430" />
     </children>
   </item>
-  <item nodeId="node-0xec6fdd0">
+  <item nodeId="node-0xc61c430">
     <command xml:space="preserve">x mr jelly</command>
     <result xml:space="preserve">just relaxing in the water, taking a nap.
 
@@ -755,10 +756,10 @@ You can see Annie here.
     <changed>NO</changed>
     <temporary score="122">YES</temporary>
     <children>
-      <child nodeId="node-0xec6f300" />
+      <child nodeId="node-0xc61bab0" />
     </children>
   </item>
-  <item nodeId="node-0xec6f300">
+  <item nodeId="node-0xc61bab0">
     <command xml:space="preserve">x annie</command>
     <result xml:space="preserve">A small blue fish with a yellow dorsil fin.
 
@@ -767,10 +768,10 @@ You can see Annie here.
     <changed>NO</changed>
     <temporary score="122">YES</temporary>
     <children>
-      <child nodeId="node-0xec6f370" />
+      <child nodeId="node-0xc61ba40" />
     </children>
   </item>
-  <item nodeId="node-0xec6f370">
+  <item nodeId="node-0xc61ba40">
     <command xml:space="preserve">ask annie about omen</command>
     <result xml:space="preserve">Yes! I&apos;ve seen him. umm... I think he was by the ...... no, he was by the .....
 
@@ -781,10 +782,10 @@ ugggg. I can&apos;t remember anything, if you find a memory pill to help me out,
     <changed>NO</changed>
     <temporary score="122">YES</temporary>
     <children>
-      <child nodeId="node-0xec6f3e0" />
+      <child nodeId="node-0xc61b9d0" />
     </children>
   </item>
-  <item nodeId="node-0xec6f3e0">
+  <item nodeId="node-0xc61b9d0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Seaweed Forest
@@ -795,10 +796,10 @@ a dense forest on seaweed lies in front of you. Mysterious and dangerous looking
     <changed>NO</changed>
     <temporary score="122">YES</temporary>
     <children>
-      <child nodeId="node-0xec6f450" />
+      <child nodeId="node-0xc61b960" />
     </children>
   </item>
-  <item nodeId="node-0xec6f450">
+  <item nodeId="node-0xc61b960">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Jellyfish Fields
@@ -813,10 +814,10 @@ You can see Annie here.
     <changed>NO</changed>
     <temporary score="122">YES</temporary>
     <children>
-      <child nodeId="node-0xec6f4c0" />
+      <child nodeId="node-0xc61b8f0" />
     </children>
   </item>
-  <item nodeId="node-0xec6f4c0">
+  <item nodeId="node-0xc61b8f0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Ship Wreckage
@@ -829,10 +830,10 @@ You can see Bob here.
     <changed>NO</changed>
     <temporary score="122">YES</temporary>
     <children>
-      <child nodeId="node-0xec6ecc0" />
+      <child nodeId="node-0xc61b880" />
     </children>
   </item>
-  <item nodeId="node-0xec6ecc0">
+  <item nodeId="node-0xc61b880">
     <command xml:space="preserve">ask bob about memory pill</command>
     <result xml:space="preserve">I may have one on me, but I&apos;m too hungry to remember!!!!
 
@@ -841,10 +842,10 @@ You can see Bob here.
     <changed>NO</changed>
     <temporary score="122">YES</temporary>
     <children>
-      <child nodeId="node-0xec6ed30" />
+      <child nodeId="node-0xc61b810" />
     </children>
   </item>
-  <item nodeId="node-0xec6ed30">
+  <item nodeId="node-0xc61b810">
     <command xml:space="preserve">give bob sandwich</command>
     <result xml:space="preserve">(first taking the sandwich)
 You hand the sandwich to Bob and he immidiatly devours it.
@@ -856,10 +857,10 @@ You hand the sandwich to Bob and he immidiatly devours it.
     <changed>YES</changed>
     <temporary score="122">YES</temporary>
     <children>
-      <child nodeId="node-0xec6eda0" />
+      <child nodeId="node-0xc61b7a0" />
     </children>
   </item>
-  <item nodeId="node-0xec6eda0">
+  <item nodeId="node-0xc61b7a0">
     <command xml:space="preserve">x box</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -868,10 +869,10 @@ You hand the sandwich to Bob and he immidiatly devours it.
     <changed>NO</changed>
     <temporary score="122">YES</temporary>
     <children>
-      <child nodeId="node-0xec6ee10" />
+      <child nodeId="node-0xc61b730" />
     </children>
   </item>
-  <item nodeId="node-0xec6ee10">
+  <item nodeId="node-0xc61b730">
     <command xml:space="preserve">x kit</command>
     <result xml:space="preserve">a rusty metal box with a red plus sign on it.
 
@@ -880,10 +881,10 @@ You hand the sandwich to Bob and he immidiatly devours it.
     <changed>NO</changed>
     <temporary score="122">YES</temporary>
     <children>
-      <child nodeId="node-0xec6ee80" />
+      <child nodeId="node-0xc61b6c0" />
     </children>
   </item>
-  <item nodeId="node-0xec6ee80">
+  <item nodeId="node-0xc61b6c0">
     <command xml:space="preserve">open it</command>
     <result xml:space="preserve">You open medical kit, revealing memory pill.
 
@@ -892,10 +893,10 @@ You hand the sandwich to Bob and he immidiatly devours it.
     <changed>NO</changed>
     <temporary score="122">YES</temporary>
     <children>
-      <child nodeId="node-0xec6eef0" />
+      <child nodeId="node-0xc61b650" />
     </children>
   </item>
-  <item nodeId="node-0xec6eef0">
+  <item nodeId="node-0xc61b650">
     <command xml:space="preserve">take it</command>
     <result xml:space="preserve">You already have that.
 
@@ -904,10 +905,10 @@ You hand the sandwich to Bob and he immidiatly devours it.
     <changed>NO</changed>
     <temporary score="122">YES</temporary>
     <children>
-      <child nodeId="node-0xec6e3f0" />
+      <child nodeId="node-0xc61b5e0" />
     </children>
   </item>
-  <item nodeId="node-0xec6e3f0">
+  <item nodeId="node-0xc61b5e0">
     <command xml:space="preserve">take pill</command>
     <result xml:space="preserve">Taken.
 
@@ -916,10 +917,10 @@ You hand the sandwich to Bob and he immidiatly devours it.
     <changed>NO</changed>
     <temporary score="122">YES</temporary>
     <children>
-      <child nodeId="node-0xec6e460" />
+      <child nodeId="node-0xc61b570" />
     </children>
   </item>
-  <item nodeId="node-0xec6e460">
+  <item nodeId="node-0xc61b570">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 School
@@ -932,10 +933,10 @@ You can see Teacher Jon here.
     <changed>NO</changed>
     <temporary score="122">YES</temporary>
     <children>
-      <child nodeId="node-0xec6e4d0" />
+      <child nodeId="node-0xc61b500" />
     </children>
   </item>
-  <item nodeId="node-0xec6e4d0">
+  <item nodeId="node-0xc61b500">
     <command xml:space="preserve">ask jon about pill</command>
     <result xml:space="preserve">There is no reply.
 
@@ -944,10 +945,10 @@ You can see Teacher Jon here.
     <changed>NO</changed>
     <temporary score="122">YES</temporary>
     <children>
-      <child nodeId="node-0xec6e540" />
+      <child nodeId="node-0xc61b490" />
     </children>
   </item>
-  <item nodeId="node-0xec6e540">
+  <item nodeId="node-0xc61b490">
     <command xml:space="preserve">ask jon about memory pill</command>
     <result xml:space="preserve">Memory pill?? Is that even a thing?? Never heard of it, I only teach 3rd grade math.
 
@@ -956,10 +957,10 @@ You can see Teacher Jon here.
     <changed>NO</changed>
     <temporary score="122">YES</temporary>
     <children>
-      <child nodeId="node-0xec6e5b0" />
+      <child nodeId="node-0xc61b420" />
     </children>
   </item>
-  <item nodeId="node-0xec6e5b0">
+  <item nodeId="node-0xc61b420">
     <command xml:space="preserve">ask jon about omen</command>
     <result xml:space="preserve">Sorry I haven&apos;t seen him since school ended, might want to try someone else.
 
@@ -968,10 +969,10 @@ You can see Teacher Jon here.
     <changed>NO</changed>
     <temporary score="122">YES</temporary>
     <children>
-      <child nodeId="node-0xec6e620" />
+      <child nodeId="node-0xc61b3b0" />
     </children>
   </item>
-  <item nodeId="node-0xec6e620">
+  <item nodeId="node-0xc61b3b0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -980,10 +981,10 @@ You can see Teacher Jon here.
     <changed>NO</changed>
     <temporary score="122">YES</temporary>
     <children>
-      <child nodeId="node-0xec6e690" />
+      <child nodeId="node-0xc61b340" />
     </children>
   </item>
-  <item nodeId="node-0xec6e690">
+  <item nodeId="node-0xc61b340">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Ship Wreckage
@@ -996,10 +997,10 @@ You can see Bob here.
     <changed>NO</changed>
     <temporary score="122">YES</temporary>
     <children>
-      <child nodeId="node-0xec6e700" />
+      <child nodeId="node-0xc61b2d0" />
     </children>
   </item>
-  <item nodeId="node-0xec6e700">
+  <item nodeId="node-0xc61b2d0">
     <command xml:space="preserve">ask bob about omen</command>
     <result xml:space="preserve">I&apos;m hungry give me food before I eat you!
 
@@ -1008,10 +1009,10 @@ You can see Bob here.
     <changed>NO</changed>
     <temporary score="122">YES</temporary>
     <children>
-      <child nodeId="node-0xec6e770" />
+      <child nodeId="node-0xc61b260" />
     </children>
   </item>
-  <item nodeId="node-0xec6e770">
+  <item nodeId="node-0xc61b260">
     <command xml:space="preserve">give bob sandwich</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -1020,10 +1021,10 @@ You can see Bob here.
     <changed>NO</changed>
     <temporary score="122">YES</temporary>
     <children>
-      <child nodeId="node-0xec6e7e0" />
+      <child nodeId="node-0xc61b1f0" />
     </children>
   </item>
-  <item nodeId="node-0xec6e7e0">
+  <item nodeId="node-0xc61b1f0">
     <command xml:space="preserve">i</command>
     <result xml:space="preserve">You are carrying:
   memory pill
@@ -1035,10 +1036,10 @@ You can see Bob here.
     <changed>NO</changed>
     <temporary score="122">YES</temporary>
     <children>
-      <child nodeId="node-0xec6e850" />
+      <child nodeId="node-0xc61b180" />
     </children>
   </item>
-  <item nodeId="node-0xec6e850">
+  <item nodeId="node-0xc61b180">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -1047,10 +1048,10 @@ You can see Bob here.
     <changed>NO</changed>
     <temporary score="122">YES</temporary>
     <children>
-      <child nodeId="node-0xec6e8c0" />
+      <child nodeId="node-0xc61b110" />
     </children>
   </item>
-  <item nodeId="node-0xec6e8c0">
+  <item nodeId="node-0xc61b110">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Jellyfish Fields
@@ -1065,10 +1066,10 @@ You can see Annie here.
     <changed>NO</changed>
     <temporary score="122">YES</temporary>
     <children>
-      <child nodeId="node-0xec6e930" />
+      <child nodeId="node-0xc61b0a0" />
     </children>
   </item>
-  <item nodeId="node-0xec6e930">
+  <item nodeId="node-0xc61b0a0">
     <command xml:space="preserve">give annie memory pill</command>
     <result xml:space="preserve">You hand the pill to Annie and hope for the best.
 
@@ -1077,10 +1078,10 @@ You can see Annie here.
     <changed>YES</changed>
     <temporary score="122">YES</temporary>
     <children>
-      <child nodeId="node-0xec6e9a0" />
+      <child nodeId="node-0xc61b030" />
     </children>
   </item>
-  <item nodeId="node-0xec6e9a0">
+  <item nodeId="node-0xc61b030">
     <command xml:space="preserve">give mr jelly memory pill</command>
     <result xml:space="preserve">You can only do that to something animate.
 
@@ -1089,10 +1090,10 @@ You can see Annie here.
     <changed>NO</changed>
     <temporary score="122">YES</temporary>
     <children>
-      <child nodeId="node-0xec6ea10" />
+      <child nodeId="node-0xc61afc0" />
     </children>
   </item>
-  <item nodeId="node-0xec6ea10">
+  <item nodeId="node-0xc61afc0">
     <command xml:space="preserve">give memory pill to annie</command>
     <result xml:space="preserve">You hand the pill to Annie and hope for the best.
 
@@ -1101,10 +1102,10 @@ You can see Annie here.
     <changed>YES</changed>
     <temporary score="122">YES</temporary>
     <children>
-      <child nodeId="node-0xec6ea80" />
+      <child nodeId="node-0xc61af50" />
     </children>
   </item>
-  <item nodeId="node-0xec6ea80">
+  <item nodeId="node-0xc61af50">
     <command xml:space="preserve"></command>
     <result xml:space="preserve">I beg your pardon?
 
@@ -1113,7 +1114,7 @@ You can see Annie here.
     <changed>YES</changed>
     <temporary score="121">YES</temporary>
   </item>
-  <item nodeId="node-0xec6eaf0">
+  <item nodeId="node-0xc61aee0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Ship Wreckage
@@ -1128,11 +1129,11 @@ You can see Bob here.
     <changed>YES</changed>
     <temporary score="30">YES</temporary>
     <children>
-      <child nodeId="node-0xec6e070" />
-      <child nodeId="node-0xec6eb60" />
+      <child nodeId="node-0xc61ad90" />
+      <child nodeId="node-0xc61ae70" />
     </children>
   </item>
-  <item nodeId="node-0xec6eb60">
+  <item nodeId="node-0xc61ae70">
     <command xml:space="preserve">talk to bob</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -1141,10 +1142,10 @@ You can see Bob here.
     <changed>YES</changed>
     <temporary score="10">YES</temporary>
     <children>
-      <child nodeId="node-0xec6e020" />
+      <child nodeId="node-0xc61ae00" />
     </children>
   </item>
-  <item nodeId="node-0xec6e020">
+  <item nodeId="node-0xc61ae00">
     <command xml:space="preserve">ask bob about food</command>
     <result xml:space="preserve">ID.
 
@@ -1153,7 +1154,7 @@ You can see Bob here.
     <changed>YES</changed>
     <temporary score="9">YES</temporary>
   </item>
-  <item nodeId="node-0xec6e070">
+  <item nodeId="node-0xc61ad90">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Jellyfish Fields
@@ -1170,11 +1171,11 @@ You can see Annie here.
     <changed>YES</changed>
     <temporary score="30">YES</temporary>
     <children>
-      <child nodeId="node-0xec6dcd0" />
-      <child nodeId="node-0xec6e0c0" />
+      <child nodeId="node-0xc61aa80" />
+      <child nodeId="node-0xc61ad20" />
     </children>
   </item>
-  <item nodeId="node-0xec6e0c0">
+  <item nodeId="node-0xc61ad20">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Ship Wreckage
@@ -1189,10 +1190,10 @@ You can see Bob here.
     <changed>YES</changed>
     <temporary score="30">YES</temporary>
     <children>
-      <child nodeId="node-0xec6e130" />
+      <child nodeId="node-0xc61acb0" />
     </children>
   </item>
-  <item nodeId="node-0xec6e130">
+  <item nodeId="node-0xc61acb0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 School
@@ -1207,10 +1208,10 @@ You can see Teacher Jon here.
     <changed>YES</changed>
     <temporary score="30">YES</temporary>
     <children>
-      <child nodeId="node-0xec6e1a0" />
+      <child nodeId="node-0xc61ac40" />
     </children>
   </item>
-  <item nodeId="node-0xec6e1a0">
+  <item nodeId="node-0xc61ac40">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -1219,10 +1220,10 @@ You can see Teacher Jon here.
     <changed>YES</changed>
     <temporary score="30">YES</temporary>
     <children>
-      <child nodeId="node-0xec6e210" />
+      <child nodeId="node-0xc61abd0" />
     </children>
   </item>
-  <item nodeId="node-0xec6e210">
+  <item nodeId="node-0xc61abd0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Ship Wreckage
@@ -1237,10 +1238,10 @@ You can see Bob here.
     <changed>YES</changed>
     <temporary score="30">YES</temporary>
     <children>
-      <child nodeId="node-0xec6dc30" />
+      <child nodeId="node-0xc61ab60" />
     </children>
   </item>
-  <item nodeId="node-0xec6dc30">
+  <item nodeId="node-0xc61ab60">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Jellyfish Fields
@@ -1257,10 +1258,10 @@ You can see Annie here.
     <changed>YES</changed>
     <temporary score="30">YES</temporary>
     <children>
-      <child nodeId="node-0xec6dc80" />
+      <child nodeId="node-0xc61aaf0" />
     </children>
   </item>
-  <item nodeId="node-0xec6dc80">
+  <item nodeId="node-0xc61aaf0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Seaweed Forest
@@ -1273,7 +1274,7 @@ Jellyfish fields is north
     <changed>YES</changed>
     <temporary score="29">YES</temporary>
   </item>
-  <item nodeId="node-0xec6dcd0">
+  <item nodeId="node-0xc61aa80">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Seaweed Forest
@@ -1283,10 +1284,10 @@ Seaweed Forest
     <changed>YES</changed>
     <temporary score="7">YES</temporary>
     <children>
-      <child nodeId="node-0xec6dd40" />
+      <child nodeId="node-0xc61aa10" />
     </children>
   </item>
-  <item nodeId="node-0xec6dd40">
+  <item nodeId="node-0xc61aa10">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Jellyfish Fields
@@ -1296,10 +1297,10 @@ Jellyfish Fields
     <changed>YES</changed>
     <temporary score="7">YES</temporary>
     <children>
-      <child nodeId="node-0xec6ddb0" />
+      <child nodeId="node-0xc61a9a0" />
     </children>
   </item>
-  <item nodeId="node-0xec6ddb0">
+  <item nodeId="node-0xc61a9a0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Ship Wreckage
@@ -1309,7 +1310,7 @@ Ship Wreckage
     <changed>YES</changed>
     <temporary score="6">YES</temporary>
   </item>
-  <item nodeId="node-0xec6de20">
+  <item nodeId="node-0xc61a930">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Your Home
@@ -1322,10 +1323,10 @@ School is east
     <changed>YES</changed>
     <temporary score="21">YES</temporary>
     <children>
-      <child nodeId="node-0xec6de90" />
+      <child nodeId="node-0xc61a8c0" />
     </children>
   </item>
-  <item nodeId="node-0xec6de90">
+  <item nodeId="node-0xc61a8c0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 School
@@ -1340,10 +1341,10 @@ You can see Teacher Jon here.
     <changed>YES</changed>
     <temporary score="21">YES</temporary>
     <children>
-      <child nodeId="node-0xec6df00" />
+      <child nodeId="node-0xc61a850" />
     </children>
   </item>
-  <item nodeId="node-0xec6df00">
+  <item nodeId="node-0xc61a850">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Ship Wreckage
@@ -1356,7 +1357,7 @@ You can see Bob here.
     <changed>YES</changed>
     <temporary score="20">YES</temporary>
   </item>
-  <item nodeId="node-0xec6d8e0">
+  <item nodeId="node-0xc61a7e0">
     <command xml:space="preserve">x lunchbox</command>
     <result xml:space="preserve">an old tin box with Sponge Bob on it.
 
@@ -1365,10 +1366,10 @@ You can see Bob here.
     <changed>YES</changed>
     <temporary score="13">YES</temporary>
     <children>
-      <child nodeId="node-0xec6d950" />
+      <child nodeId="node-0xc61a770" />
     </children>
   </item>
-  <item nodeId="node-0xec6d950">
+  <item nodeId="node-0xc61a770">
     <command xml:space="preserve">open box</command>
     <result xml:space="preserve">You open medical box, revealing nothing.
 
@@ -1377,7 +1378,7 @@ You can see Bob here.
     <changed>YES</changed>
     <temporary score="12">YES</temporary>
   </item>
-  <item nodeId="node-0xec6d9c0">
+  <item nodeId="node-0xc61a700">
     <command xml:space="preserve">open box</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -1386,10 +1387,10 @@ You can see Bob here.
     <changed>YES</changed>
     <temporary score="20">YES</temporary>
     <children>
-      <child nodeId="node-0xec6da30" />
+      <child nodeId="node-0xc61a690" />
     </children>
   </item>
-  <item nodeId="node-0xec6da30">
+  <item nodeId="node-0xc61a690">
     <command xml:space="preserve">x lunch box</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -1398,10 +1399,10 @@ You can see Bob here.
     <changed>YES</changed>
     <temporary score="20">YES</temporary>
     <children>
-      <child nodeId="node-0xec6daa0" />
+      <child nodeId="node-0xc61a620" />
     </children>
   </item>
-  <item nodeId="node-0xec6daa0">
+  <item nodeId="node-0xc61a620">
     <command xml:space="preserve">xbox</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -1410,10 +1411,10 @@ You can see Bob here.
     <changed>YES</changed>
     <temporary score="20">YES</temporary>
     <children>
-      <child nodeId="node-0xec6db10" />
+      <child nodeId="node-0xc61a5b0" />
     </children>
   </item>
-  <item nodeId="node-0xec6db10">
+  <item nodeId="node-0xc61a5b0">
     <command xml:space="preserve">x box</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -1422,10 +1423,10 @@ You can see Bob here.
     <changed>YES</changed>
     <temporary score="20">YES</temporary>
     <children>
-      <child nodeId="node-0xec6d590" />
+      <child nodeId="node-0xc61a540" />
     </children>
   </item>
-  <item nodeId="node-0xec6d590">
+  <item nodeId="node-0xc61a540">
     <command xml:space="preserve">x lunchbox</command>
     <result xml:space="preserve">an old tin box with Sponge Bob on it.
 
@@ -1434,10 +1435,10 @@ You can see Bob here.
     <changed>YES</changed>
     <temporary score="20">YES</temporary>
     <children>
-      <child nodeId="node-0xec6d600" />
+      <child nodeId="node-0xc61a4d0" />
     </children>
   </item>
-  <item nodeId="node-0xec6d600">
+  <item nodeId="node-0xc61a4d0">
     <command xml:space="preserve">open it</command>
     <result xml:space="preserve">You open Lunchbox, revealing Sandwich.
 
@@ -1446,7 +1447,7 @@ You can see Bob here.
     <changed>YES</changed>
     <temporary score="19">YES</temporary>
   </item>
-  <item nodeId="node-0xec6d670">
+  <item nodeId="node-0xc61a460">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -1455,10 +1456,10 @@ You can see Bob here.
     <changed>YES</changed>
     <temporary score="6">YES</temporary>
     <children>
-      <child nodeId="node-0xec6d6e0" />
+      <child nodeId="node-0xc61a3f0" />
     </children>
   </item>
-  <item nodeId="node-0xec6d6e0">
+  <item nodeId="node-0xc61a3f0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 School
@@ -1471,10 +1472,10 @@ You can see Teacher Jon here.
     <changed>YES</changed>
     <temporary score="6">YES</temporary>
     <children>
-      <child nodeId="node-0xec6d750" />
+      <child nodeId="node-0xc61a380" />
     </children>
   </item>
-  <item nodeId="node-0xec6d750">
+  <item nodeId="node-0xc61a380">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Ship Wreckage
@@ -1485,10 +1486,10 @@ You can see Bob here.
     <changed>YES</changed>
     <temporary score="6">YES</temporary>
     <children>
-      <child nodeId="node-0xec6d7c0" />
+      <child nodeId="node-0xc61a310" />
     </children>
   </item>
-  <item nodeId="node-0xec6d7c0">
+  <item nodeId="node-0xc61a310">
     <command xml:space="preserve">talk to bob</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -1497,10 +1498,10 @@ You can see Bob here.
     <changed>YES</changed>
     <temporary score="6">YES</temporary>
     <children>
-      <child nodeId="node-0xec6d1a0" />
+      <child nodeId="node-0xc61a2a0" />
     </children>
   </item>
-  <item nodeId="node-0xec6d1a0">
+  <item nodeId="node-0xc61a2a0">
     <command xml:space="preserve">x bob</command>
     <result xml:space="preserve">a HUNGRY great white shark, you better have good reason to talk to him.
 
@@ -1509,13 +1510,12 @@ You can see Bob here.
     <changed>YES</changed>
     <temporary score="5">YES</temporary>
   </item>
-  <item nodeId="node-0xecf1a00">
-    <command xml:space="preserve">x player</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
+  <item nodeId="node-0xc6a7100">
+    <command xml:space="preserve">hint</command>
+    <result xml:space="preserve">test
 &gt;</result>
     <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="1">YES</temporary>
+    <changed>NO</changed>
+    <temporary score="15">YES</temporary>
   </item>
 </Skein>
